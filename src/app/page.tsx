@@ -9,12 +9,14 @@ export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
+  
   return (
-    <html lang="en">
-      <head>
-        <title>SerbaTahu</title>
-      </head>
-      <body style={{ backgroundColor: "black", color: "white", minHeight: "100vh", padding: "0", margin: "0" }}>
+      <div className="content-all-container" style={{ backgroundColor: "black", color: "white", minHeight: "100vh", padding: "0", margin: "0" }}>
+
+        {/* ads */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6617449070854197"
+         crossOrigin="anonymous"></script>
+
         {/* Navbar */}
         <nav className="navbar" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "1rem 2rem", background: "black", boxShadow: "0 4px 6px rgba(0, 0, 0, 0.2)" }}>
           <div className="navbar-brand" style={{ textAlign: "left" }}>
@@ -129,7 +131,6 @@ export default function Home() {
 
         {/* Speed Insights */}
         <SpeedInsights />
-      </body>
-    </html>
-  );
+    </div>
+  )
 }
