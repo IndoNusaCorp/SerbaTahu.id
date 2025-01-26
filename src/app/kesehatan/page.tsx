@@ -9,9 +9,9 @@ export default function kesehatan() {
 
   // Array kategori konten
   const categories = [
-    { name: "Ini dia! Beberapa rekomendasi Buah yang cocok untuk memutihkan kulit", href: "" },
-    { name: "Jika Belum tahu, inilah manfaat buah jeruk", href: "" },
-    { name: "Hey kamu, ini dia manfaat apel bagi kamu yang belum tau", href: "" },
+    { name: "kesehatan", href: "/kesehatan/penjelasan-kesehatan" },
+    { name: "", href: "" },
+    { name: "", href: "" },
   ];
 
   // Menghitung jumlah konten yang tersedia
