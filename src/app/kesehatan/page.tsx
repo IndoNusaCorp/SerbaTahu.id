@@ -9,7 +9,7 @@ export default function kesehatan() {
 
   // Array kategori konten
   const categories = [
-    { name: "kesehatan", href: "/kesehatan/penjelasan-kesehatan" },
+    { name: "Kesehatan & Teknologi Kesehatan", href: "/kesehatan/penjelasan-kesehatan" },
     { name: "", href: "" },
     { name: "", href: "" },
   ];
