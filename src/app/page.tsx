@@ -94,7 +94,7 @@ export default function Home() {
               {
                 title: "Kesehatan dan Teknologi Kesehatan",
                 description: "Yuk, Kita pelajari bareng-bareng",
-                href: "/kesehatan/kesehatan-dan-teknologi-kesehatan",
+                href: "/kesehatan/kesehatan-dan-teknologi-kedokteran",
               },
             ].map((item) => (
               <Link
