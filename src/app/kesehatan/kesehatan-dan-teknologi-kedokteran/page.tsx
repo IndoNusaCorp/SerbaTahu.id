@@ -25,7 +25,7 @@ export default function Kendaraan() {
 
       {/* Header */}
       <div className="text-center text-2xl font-bold py-8">
-        Kesehatan & Teknologi Kesehatan
+        Kesehatan & Teknologi Kedokteran
       </div>
 
       {/* Content 1 */}
