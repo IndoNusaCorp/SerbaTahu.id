@@ -92,7 +92,7 @@ export default function Home() {
                 href: "/ilmu-komputer/github/bagaimana-cara-pertama-kali-commit",
               },
               {
-                title: "Kesehatan dan Teknologi Kesehatan",
+                title: "Kesehatan dan Teknologi Kedokteran",
                 description: "Yuk, Kita pelajari bareng-bareng",
                 href: "/kesehatan/kesehatan-dan-teknologi-kedokteran",
               },
