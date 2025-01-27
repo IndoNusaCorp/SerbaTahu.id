@@ -91,6 +91,11 @@ export default function Home() {
                 description: "liat caranya disini",
                 href: "/ilmu-komputer/github/bagaimana-cara-pertama-kali-commit",
               },
+              {
+                title: "Kesehatan dan Teknologi Kesehatan",
+                description: "Yuk, Kita pelajari bareng-bareng",
+                href: "/kesehatan/penjelasan-kesehatan",
+              },
             ].map((item) => (
               <Link
                 key={item.title}
