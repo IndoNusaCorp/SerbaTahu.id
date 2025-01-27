@@ -92,6 +92,16 @@ export default function Kendaraan() {
           </Link>
         </div>
 
+
+
+
+
+
+
+
+
+
+
         <div className="judul-jurnal-1" style={{display: "flex", justifyContent: "center", fontSize: "1.5rem", marginTop: "55px", fontWeight: "bold"}}>
             Computed Tomography (CT-Scan)
         </div>
@@ -140,6 +150,191 @@ export default function Kendaraan() {
         <div className="text-lg font-medium text-center my-6">
         NCCN Task Force Report: Positron Emission Tomography (PET)/Computed Tomography (CT) Scanning in Cancer
           <Link href="https://jnccn.org/view/journals/jnccn/5/S1/article-pS-1.xml?rskey=c4QjZf&result=3248" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+
+
+
+
+
+
+
+        <div className="judul-jurnal-1" style={{display: "flex", justifyContent: "center", fontSize: "1.5rem", marginTop: "55px", fontWeight: "bold"}}>
+            USG
+        </div>
+        <div className="text-lg font-medium text-center my-6">
+        A Systematic Review and Meta-Analysis of 29 Studies Predicting Diagnostic Accuracy of CT, MRI, PET, and USG in Detecting Extracapsular Spread in Head and Neck Cancers
+          <Link href="https://www.mdpi.com/2072-6694/16/8/1457" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Accuracy of low dose CT in the diagnosis of appendicitis in childhood and comparison with USG and standard dose CT
+          <Link href="https://www.scielo.br/j/jped/a/DwdKTmCq68rKNRrXzNhh9yL/?format=html&lang=en" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Computed tomography: What and how does it measure?
+          <Link href="https://www.sciencedirect.com/science/article/abs/pii/S0720048X16300754" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Comparison methods of edge detection for USG images
+          <Link href="https://ieeexplore.ieee.org/abstract/document/7892416" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+
+
+
+
+
+
+        <div className="judul-jurnal-1" style={{display: "flex", justifyContent: "center", fontSize: "1.5rem", marginTop: "55px", fontWeight: "bold"}}>
+            Thermography
+        </div>
+        <div className="text-lg font-medium text-center my-6">
+        Diagnostic Thermography
+          <Link href="https://www.mdpi.com/2072-6694/16/8/1457" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Medical applications of infrared thermography: A review
+          <Link href="https://www.sciencedirect.com/science/article/pii/S1350449512000308" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Infrared thermography for building diagnostics
+          <Link href="https://www.sciencedirect.com/science/article/abs/pii/S0378778801001050" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Recent advances in the use of infrared thermography
+          <Link href="https://iopscience.iop.org/article/10.1088/0957-0233/15/9/R01/meta" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+
+
+
+
+
+
+        <div className="judul-jurnal-1" style={{display: "flex", justifyContent: "center", fontSize: "1.5rem", marginTop: "55px", fontWeight: "bold"}}>
+        PCR (Polymerase Chain Reaction)
+        </div>
+        <div className="text-lg font-medium text-center my-6">
+        Polymerase Chain Reaction (PCR): A Short Review
+          <Link href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b9409d22983e4ae5fd496ab642098f3e7ab955cb" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        The real-time polymerase chain reaction
+          <Link href="https://www.sciencedirect.com/science/article/abs/pii/S0098299705000907" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        The Polymerase Chain Reaction - Kary B. Mullis - Google Books
+          <Link href="https://books.google.co.id/books?hl=en&lr=&id=woNO4w5HweQC&oi=fnd&pg=PR9&dq=PCR+(Polymerase+Chain+Reaction)&ots=fXojMkiqNv&sig=CBMTGe9XQYCqZQonsEEnQ0wMVIY&redir_esc=y#v=onepage&q=PCR%20(Polymerase%20Chain%20Reaction)&f=false" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        A Short History of the Polymerase Chain Reaction
+          <Link href="https://link.springer.com/protocol/10.1385/1-59259-384-4:3" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+
+
+
+
+
+        <div className="judul-jurnal-1" style={{display: "flex", justifyContent: "center", fontSize: "1.5rem", marginTop: "55px", fontWeight: "bold"}}>
+        NGS (Next Generation Reaction)
+        </div>
+        <div className="text-lg font-medium text-center my-6">
+        Next generation sequencing technology: Advances and applications
+          <Link href="https://www.sciencedirect.com/science/article/pii/S092544391400180X" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Next-Generation Sequencing Platforms
+          <Link href="https://www.annualreviews.org/content/journals/10.1146/annurev-anchem-062012-092628" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Next-Generation Sequencing and Emerging Technologies
+          <Link href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0044-1786397" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Landscape of Next-Generation Sequencing Technologies
+          <Link href="https://pubs.acs.org/doi/full/10.1021/ac2010857" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+
+
+
+
+
+
+        <div className="judul-jurnal-1" style={{display: "flex", justifyContent: "center", fontSize: "1.5rem", marginTop: "55px", fontWeight: "bold"}}>
+        CRISPR/Cas9
+        </div>
+        <div className="text-lg font-medium text-center my-6">
+        What is CRISPR/Cas9?
+          <Link href="https://ep.bmj.com/content/101/4/213.short" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        The new frontier of genome engineering with CRISPR-Cas9
+          <Link href="https://www.science.org/doi/abs/10.1126/science.1258096" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Development and Applications of CRISPR-Cas9 for Genome Engineering
+          <Link href="https://www.cell.com/cell/fulltext/S0092-8674(14)00604-7?featurecode=newtitle%25E9%25A9%25AC%25E5%25A4%25A9&luicode=10000011&lfid=1076033218865071&u=http://www.cell.com%2Fcell%2Fabstract%2FS0092-8674%2814%2900604-7" className="text-blue-500 font-semibold ml-2">
+            &gt;
+          </Link>
+        </div>
+
+        <div className="text-lg font-medium text-center my-6">
+        Genome engineering using the CRISPR-Cas9 system
+          <Link href="https://www.nature.com/articles/nprot.2013.143" className="text-blue-500 font-semibold ml-2">
             &gt;
           </Link>
         </div>
