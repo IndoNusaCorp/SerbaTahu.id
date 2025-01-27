@@ -25,7 +25,7 @@ export default function Kendaraan() {
 
       {/* Header */}
       <div className="text-center text-2xl font-bold py-8">
-        Kesehatan & Teknologi Kesehatan
+        Teknologi Kedokteran
       </div>
 
       {/* Content 1 */}
@@ -33,7 +33,7 @@ export default function Kendaraan() {
         <div className="text-base md:text-lg font-light leading-relaxed">
           Apa itu <span className="text-blue-500 font-semibold">Kesehatan</span> menurut beberapa sumber seperti wikipedia, dan artikel lainnya.
           Kesehatan itu adalah kondisi kesejahteraan secara fisik, mental, sosial dan lainnya.
-          Makna kesehatan itu sudah berkembang dalam seiringnya waktu. Dan juga perkembangan teknologi kesehatan dan kedokteran sudah canggih banget, menggunakan teknologi tinggi.
+          Maka teknologi kedokteran itu sudah berkembang dalam seiringnya waktu. Dan juga perkembangan teknologi kedokteran sudah canggih banget, menggunakan teknologi tinggi.
           Seperti teknologi X-Ray, CT-Scan (Computed Tomography), Ultrasound (USG), PET Scan (Positron Emission Tomography), Fluoroskopi, Thermography, PCR (Polymerase Chain Reaction), Next-Generation Sequencing, CRISPR-Cas9, Surgical Robots (Robot bedah), dan masih banyak lainnya.
 
           Yuk. Kita pelajari bareng tentang Teknologi kedokteran ini. <span className="text-blue-500 font-semibold">MRI (Magnetic Resonance Imaging): </span>  adalah teknologi yang menggunakan medan magnet dan gelombang radio. Biasanya untuk scanning dan bisa menampilkan hasil gambar dari organ tubuh pasien dan jaringan tubuh pasien. <span className="text-blue-500 font-semibold">CT Scan (Computed Tomography): </span> itu adalah teknologi
