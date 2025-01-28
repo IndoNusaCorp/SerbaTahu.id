@@ -13,6 +13,9 @@ export default function Home() {
   return (
       <div className="content-all-container" style={{ backgroundColor: "black", color: "white", minHeight: "100vh", padding: "0", margin: "0" }}>
 
+        {/* Google Metatag */}
+        <meta name="google-site-verification" content="eCfhFPYxSSRg4yKfeEpHHuqsMhyARolDrj5-CWU4nkI" />
+
         {/* ads */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6617449070854197"
          crossOrigin="anonymous"></script>
@@ -92,9 +95,9 @@ export default function Home() {
                 href: "/ilmu-komputer/github/bagaimana-cara-pertama-kali-commit",
               },
               {
-                title: "Kesehatan dan Teknologi Kedokteran",
+                title: "Kesehatan dan Teknologi Kesehatan",
                 description: "Yuk, Kita pelajari bareng-bareng",
-                href: "/kesehatan/kesehatan-dan-teknologi-kedokteran",
+                href: "/kesehatan/kesehatan-dan-teknologi-kesehatan",
               },
             ].map((item) => (
               <Link
