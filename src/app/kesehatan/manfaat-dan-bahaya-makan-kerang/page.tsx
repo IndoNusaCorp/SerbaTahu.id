@@ -167,11 +167,9 @@ export default function Kendaraan() {
 
         {/* Video Section */}
         <div className="flex flex-col items-center gap-8 mt-12">
-          <div className="flex flex-col items-center">
+          <div className="w-full max-w-2xl flex flex-col items-center px-4">
             <iframe
-              className="rounded-xl"
-              width="560"
-              height="315"
+              className="w-full aspect-video rounded-xl"
               src="https://youtube.com/embed/pz-KgKe04uE?si=a4XmBVjOw-bAuv0_"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -188,11 +186,9 @@ export default function Kendaraan() {
         </div>
 
         <div className="flex flex-col items-center gap-8 mt-12">
-          <div className="flex flex-col items-center">
+          <div className="w-full max-w-2xl flex flex-col items-center px-4">
             <iframe
-              className="rounded-xl"
-              width="560"
-              height="315"
+              className="w-full aspect-video rounded-xl"
               src="https://www.youtube.com/embed/FLxWikmNH34?si=4E4v9ABFFLNBd4TA"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -209,11 +205,9 @@ export default function Kendaraan() {
         </div>
 
         <div className="flex flex-col items-center gap-8 mt-12">
-          <div className="flex flex-col items-center">
+          <div className="w-full max-w-2xl flex flex-col items-center px-4">
             <iframe
-              className="rounded-xl"
-              width="560"
-              height="315"
+              className="w-full aspect-video rounded-xl"
               src="https://www.youtube.com/embed/hIsGYQEhzaU?si=lqitIR2guQyRlnjp"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
