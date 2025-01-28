@@ -9,8 +9,8 @@ export default function kesehatan() {
 
   // Array kategori konten
   const categories = [
-    { name: "Kesehatan & Teknologi Kedokteran", href: "/kesehatan/kesehatan-dan-teknologi-kedokteran" },
-    { name: "", href: "" },
+    { name: "Kesehatan & Teknologi Kesehatan", href: "/kesehatan/kesehatan-dan-teknologi-kesehatan" },
+    { name: "Manfaat & Bahaya makan kerang", href: "/kesehatan/manfaat-dan-bahaya-makan-kerang" },
     { name: "", href: "" },
   ];
 
