@@ -99,6 +99,11 @@ export default function Home() {
                 description: "Yuk, Kita pelajari bareng-bareng",
                 href: "/kesehatan/kesehatan-dan-teknologi-kesehatan",
               },
+              {
+                title: "Manfaat & Bahaya makan kerang",
+                description: "Yuk, Kita pelajari bareng-bareng",
+                href: "/kesehatan/manfaat-dan-bahaya-makan-kerang",
+              },
             ].map((item) => (
               <Link
                 key={item.title}
