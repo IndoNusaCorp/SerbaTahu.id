@@ -12,12 +12,18 @@ export default function GithubTutorial1() {
       {/* Navbar */}
       <nav className="flex justify-between items-center py-4 px-8 bg-black shadow-md">
         <div className="text-left">
-          <Link href="/" className="text-xl font-bold text-white transition-colors hover:text-gray-300">
+          <Link
+            href="/"
+            className="text-xl font-bold text-white transition-colors hover:text-gray-300"
+          >
             SerbaTahu
           </Link>
         </div>
         <div className="flex gap-6">
-          <Link href="/about-us" className="text-lg font-semibold text-white transition-colors hover:text-gray-300">
+          <Link
+            href="/about-us"
+            className="text-lg font-semibold text-white transition-colors hover:text-gray-300"
+          >
             Tentang Kami
           </Link>
         </div>
@@ -41,28 +47,16 @@ export default function GithubTutorial1() {
       </div>
 
       {/* Video Section 1 */}
-      <div
-        className="video-container"
-        style={{
-          backgroundColor: "black",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          borderRadius: "10px",
-          overflow: "hidden",
-          marginBottom: "30px",
-        }}
-      >
-        <iframe
-          src="https://drive.google.com/file/d/1VWvpYZOXI6-SDyICY-Rz928LiaFvY-9y/preview"
-          width="800"
-          height="450"
-          allow="autoplay"
-          style={{
-            borderRadius: "10px",
-          }}
-        ></iframe>
-      </div>
+      <div className="flex flex-col items-center gap-8 mt-12">
+          <div className="w-full max-w-2xl flex flex-col items-center px-4">
+            <iframe
+              className="w-full aspect-video rounded-xl"
+              src="https://drive.google.com/file/d/1VWvpYZOXI6-SDyICY-Rz928LiaFvY-9y/preview"
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            ></iframe>
+          </div>
+        </div>
 
       {/* Tutorial Description 1 */}
       <div
@@ -98,28 +92,16 @@ export default function GithubTutorial1() {
       </div>
 
       {/* Video Section 2 */}
-      <div
-        className="video-container"
-        style={{
-          backgroundColor: "black",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          borderRadius: "10px",
-          overflow: "hidden",
-          marginBottom: "30px",
-        }}
-      >
-        <iframe
-          src="https://drive.google.com/file/d/1VWvpYZOXI6-SDyICY-Rz928LiaFvY-9y/preview"
-          width="800"
-          height="450"
-          allow="autoplay"
-          style={{
-            borderRadius: "10px",
-          }}
-        ></iframe>
-      </div>
+      <div className="flex flex-col items-center gap-8 mt-12">
+          <div className="w-full max-w-2xl flex flex-col items-center px-4">
+            <iframe
+              className="w-full aspect-video rounded-xl"
+              src="https://drive.google.com/file/d/1VWvpYZOXI6-SDyICY-Rz928LiaFvY-9y/preview"
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            ></iframe>
+          </div>
+        </div>
 
       {/* Tutorial Description 2 */}
       <div
