@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SerbaTahu",
+  title: "SerbaTahu - Tempat belajar gratis & Encyclopedia Gratis",
   description: "SerbaTahu adalah encyclopedia asli indonesia",
 };
 
