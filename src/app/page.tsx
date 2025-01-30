@@ -32,6 +32,11 @@ export default function Home() {
       description: "Yuk, Kita pelajari bareng-bareng",
       href: "/kesehatan/manfaat-dan-bahaya-makan-kerang",
     },
+    {
+      title: "Apasih itu Psikologi? Bagaimana sejarah psikologi?",
+      description: "Yuk, Kita pelajari bareng-bareng",
+      href: "/psychology/arti-psikologi",
+    },
   ];
 
   // Filter logic
