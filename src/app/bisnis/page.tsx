@@ -13,8 +13,8 @@ export default function Bisnis () {
   // Data discovery items
   const discoveryItems = [
     {
-      title: "(Konten ini masih kosong)",
-      href: "",
+      title: "Bisnis",
+      href: "/bisnis/arti-bisnis",
     },
     {
       title: "(Konten ini masih kosong)",
