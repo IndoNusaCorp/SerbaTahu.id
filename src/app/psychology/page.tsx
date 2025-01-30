@@ -82,7 +82,7 @@ export default function psychology () {
         >
           <input
             type="text"
-            placeholder="🔍 Yuk Belajar Pskikologi | Apa yang mau kamu cari?"
+            placeholder="🔍 Yuk Belajar Psikologi | Apa yang mau kamu cari?"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             style={{
