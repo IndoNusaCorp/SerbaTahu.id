@@ -37,6 +37,11 @@ export default function Home() {
       description: "Yuk, Kita pelajari bareng-bareng",
       href: "/psychology/arti-psikologi",
     },
+    {
+      title: "Apa arti dari bisnis?",
+      description: "Yuk, Kita pelajari bareng-bareng",
+      href: "/bisnis/arti-bisnis",
+    },
   ];
 
   // Filter logic
