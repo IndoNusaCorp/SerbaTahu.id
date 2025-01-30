@@ -167,6 +167,7 @@ export default function Home() {
           { name: "🚗", href: "/kendaraan" },
           { name: "🏀", href: "/olahraga" },
           { name: "🌮", href: "/makanan" },
+          { name: "🫀", href: "/psychology" },
         ].map((category) => (
           <Link
             href={category.href}
