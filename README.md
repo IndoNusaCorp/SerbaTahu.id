@@ -1,4 +1,4 @@
-content = """# SerbaTahu - Article Web Application (Legacy Repository)
+SerbaTahu - Article Web Application (Legacy Repository)
 
 > **⚠️ DEPRECATION NOTICE & ARCHIVE STATUS:**
 > Please read before proceeding. This repository contains the old, legacy source code for the **SerbaTahu** project. This specific iteration of the application is officially deprecated, no longer maintained, and the files within this repository are no longer used in any active development or production environments. 
